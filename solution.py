@@ -1,6 +1,6 @@
 # Brayckner
 # 08/18/2021
-
+# 
 
 #  BackTracking Problem
 maze = [[" . ", " . ", " . ", " . ",],
